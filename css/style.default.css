@@ -32,7 +32,7 @@ p {
 }
 
 section {
-  padding: 10px 0;
+  padding: 30px 0;
   position: relative;
 }
 
@@ -64,7 +64,7 @@ section {
   display: inline-block;
   font-size: 2.9rem;
   font-weight: 100;
-  padding: 10px 0;
+  padding: 20px 0;
   margin-bottom: 44px;
   text-align: center;
   border-bottom: solid 1px #ccc;
@@ -180,7 +180,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 *
 */
 .intro-section {
-  padding-top: 50px;
+  padding-top: 150px;
   color: #10559A;
 }
 .container .content {
