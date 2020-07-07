@@ -2366,11 +2366,12 @@ code {
 .education .info{
   font-size: 25px;
 }
-.workExpoints
-{
-  list-style-type: square;
-  font-size: 20px;
-  color: #555555;
+.workExpoints {
+    list-style-type: square;
+    font-size: 20px;
+    color: #555555;
+    margin: 0;
+    padding: 0;
 }
 #project
 {
