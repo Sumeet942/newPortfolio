@@ -32,7 +32,7 @@ p {
 }
 
 section {
-  padding: 60px 0;
+  padding: 10px 0;
   position: relative;
 }
 
@@ -180,7 +180,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 *
 */
 .intro-section {
-  padding-top: 150px;
+  padding-top: 50px;
   color: #10559A;
 }
 .container .content {
