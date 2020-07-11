@@ -795,6 +795,16 @@ STYLE SWITCHER FOR DEMO
 /*
  * 2. BUTTONS
  */
+
+.button{
+    background-color:powderblue;
+    border: solid thin white;
+    width :auto;
+    height: auto;
+}
+
+
+
 .btn {
   font-weight: 400;
   border: 1px solid transparent;
