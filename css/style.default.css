@@ -797,10 +797,12 @@ STYLE SWITCHER FOR DEMO
  */
 
 .button{
-    background-color:powderblue;
-    border: solid thin white;
+    background-color: darkcyan ActiveBorder;
+    border: solid;
     width :auto;
     height: auto;
+    border-color: black;
+    color: white;   
 }
 
 
