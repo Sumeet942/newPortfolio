@@ -73,7 +73,7 @@ section {
   letter-spacing: 0.1em;
   line-height: 1.2;
   color: #555;
-  margin-top: 20px;
+  margin-top: 65px;
   letter-spacing: 0;
 }
 
@@ -2395,8 +2395,11 @@ code {
     list-style-type: square;
     font-size: 20px;
     color: #555555;
-    //margin: 0;
-    //padding: 0;
+}
+.resumeButton
+{
+  margin-left: 10%;
+  padding-left: 10px;
 }
 #project
 {
