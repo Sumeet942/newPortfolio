@@ -805,7 +805,7 @@ STYLE SWITCHER FOR DEMO
     color: black;
 */   
     font-weight: 400;
-    border: 1px solid transparent;
+    border: 2px solid transparent;
     text-transform: uppercase;
     letter-spacing: 0.1em;
     padding: 0.45rem 0.75rem;
