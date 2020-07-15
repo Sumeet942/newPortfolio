@@ -19,8 +19,8 @@ Bootstrapious Boilerplate Template
 
 .animated {
   visibility: visible;
-  -webkit-animation-duration: 1.5s;
-  animation-duration: 1.5s;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
 }
 
 body {
@@ -222,7 +222,7 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 }
 
 .about-section .progress {
-  height: 30px;
+  height: 15px;
   border-radius: 0;
 }
 
@@ -231,25 +231,25 @@ nav.navbar a.nav-link.active, nav.navbar a.nav-link:hover {
 }
 
 .about-section .progress .progress-bar-skill1 {
-  background: #dce0ee;
+  background: #10559a;
 }
 
 .about-section .progress .progress-bar-skill2 {
-  background: #b9c2dd;
+  background: #4b6eab;
 }
 
 .about-section .progress .progress-bar-skill3 {
-  background: #96a5cc;
+  background: #7289bb;
 }
 
 .about-section .progress .progress-bar-skill4 {
-  background: #7289bb;
+  background: #96a5cc;
 }
 .about-section .progress .progress-bar-skill5 {
-  background: #4b6eab;
+  background: #b9c2dd;
 }
 .about-section .progress .progress-bar-skill6 {
-  background: #10559a;
+  background: #4b6eab;
 }
 
 /*
